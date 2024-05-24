@@ -6,3 +6,7 @@
 <li> Após alcançar 10 maçãs conclui o jogo e pode ser reiniciado;</li>
 <li> Música de fundo ao longo do jogo;</li>
 <li> Música de vitória quando alcança o objetivo.</li>
+
+<video>https://github.com/Gabihdesu/jogo_sapo/assets/123336731/4b6ef133-7f2e-4926-8d4f-12bccbbd6c78</video>
+
+
